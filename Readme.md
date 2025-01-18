@@ -1,1 +1,1 @@
-# Training Assigment are uploaded here
+# Training Assigments will be uploaded here
