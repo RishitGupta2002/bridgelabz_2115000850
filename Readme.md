@@ -5,7 +5,7 @@
 * Completed Assisted Problems & Self Problems (Assignment-1)
 
 ---
-## Assignment 2: DATE: 20-01-2025
+## Assignment 2: DATE: 21-01-2025
 
 * Basic Introduction of Java and completed initial programs. History and Evolution of Java, JVM Architecture Java Fundamentals, High level vs. low level and Compiler and Interpreter
 ---
