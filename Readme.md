@@ -9,7 +9,7 @@
 
 * Basic Introduction of Java and completed initial programs. History and Evolution of Java, JVM Architecture Java Fundamentals, High level vs. low level and Compiler and Interpreter
 ---
-## Assignment 3: DATE: 21-01-2025
+## Assignment 3: DATE: 22-01-2025
 
 Static and Non-Static Members Calling Static Methods:
 
@@ -127,26 +127,34 @@ String Handling Concepts: Explored fundamental concepts related to handling stri
 
 String Problems: Solved problem statements focused on applying string methods and handling techniques.
 
-Task 10: DATE: 30-01-2025 Built-in String Methods and Exception Handling
+## Task 9: DATE: 29-01-2025 Built-in String Methods and Exception Handling
 
-String Built-in Methods: Learned about built-in methods for string operations in Java.
+- **String Built-in Methods: Learned about built-in methods for string operations in Java.
 
-Exception Handling: Studied the types and mechanisms of exception handling in Java.
+- **Exception Handling: Studied the types and mechanisms of exception handling in Java.
 
-Type 1 Problems: Solved problems using built-in functions, including date and time operations.
+- **Type 1 Problems: Solved problems using built-in functions, including date and time operations.
 
-Type 2 Problems: Engaged in problem-solving exercises involving concepts like palindrome checks and Fibonacci sequences.
+- **Type 2 Problems: Engaged in problem-solving exercises involving concepts like palindrome checks and Fibonacci sequences.
 
-Task 11: DATE: 31-01-2025 Object-Oriented Programming (OOP) in Java
+---
 
-OOP Overview: Gained an understanding of the principles and advantages of OOP.
+## Assignment 10: DATE: 30-01-2025  
 
-Comparison: Compared procedural programming with object-oriented programming.
 
-Classes and Objects
+### Object-Oriented Programming (OOP) in Java
+
+-OOP Overview: Gained an understanding of the principles and advantages of OOP.
+
+-Comparison: Compared procedural programming with object-oriented programming.
+
+### Classes and Objects
 
 Java Class: Studied the structure and purpose of classes in Java.
 
 Java Object: Learned about creating and using objects in Java.
+
+---
+
 
 Level 1 Problems: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
