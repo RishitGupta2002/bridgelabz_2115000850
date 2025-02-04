@@ -6,10 +6,11 @@
 
 
   ---
+## Assignment 2: DATE: 20-01-2025
 
-Task 2: DATE: 20-01-2025 Basic Introduction of Java and completed initial programs. History and Evolution of Java, JVM Architecture Java Fundamentals, High level vs. low level and Compiler and Interpreter
-
-Task 3: DATE: 21-01-2025
+Basic Introduction of Java and completed initial programs. History and Evolution of Java, JVM Architecture Java Fundamentals, High level vs. low level and Compiler and Interpreter
+---
+## Assignment 3: DATE: 21-01-2025
 
 Static and Non-Static Members Calling Static Methods:
 
