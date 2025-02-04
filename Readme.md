@@ -169,7 +169,7 @@ Java Class: Studied the structure and purpose of classes in Java.
 Java Object: Learned about creating and using objects in Java.
 
 
-### * Solved
+### * Solved *
 Level 1 Problems: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
 
 ---
