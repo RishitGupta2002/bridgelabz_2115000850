@@ -1,0 +1,4 @@
+This is an example source file.
+It contains some sample text
+that will be read by the Java program
+and written into a new destination file.

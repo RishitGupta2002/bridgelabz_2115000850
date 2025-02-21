@@ -1,0 +1,5 @@
+This is a simple text file.
+It contains some sample text to be used for counting words.
+Let's see which words appear the most frequently.
+The Java program will count the occurrences of each word.
+The top 5 most frequently occurring words will be displayed.
